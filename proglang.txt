@@ -1,0 +1,11 @@
+List of fav programming languages
+Java
+Python
+Scala
+Ruby
+R
+C#
+C++
+SQL
+JavaScript
+VB
